@@ -4,7 +4,7 @@ Alli-App offers daily information and guidance on taking medication, managing po
 
 We understand the importance of having a low-barrier, diversity-aware, and gender-inclusive platform that serves the needs of our diverse target audience. Our goal is to provide a comprehensive and inclusive app that supports individuals through every step of the process.
 
-We are currently in the development stage. If you want to join our mission to make abortion with pills a more accessible and empowering experience reach out to us at **contact** or have a look at the contribution section of this page. For more information check out our **website**.
+We are currently in the development stage. If you want to join our mission to make abortion with pills a more accessible and empowering experience reach out to us at team@alli-app.com.  For more information check out our [website](https://alli-app.com/).
 
 
 # Setup
@@ -12,11 +12,11 @@ We are currently in the development stage. If you want to join our mission to ma
 ## Clone the repository
 Clone with SSH
 
-    git clone ...
+    git clone git@github.com:dinosled/alli-app.git
 
 Clone with HTTPS
 
-    git clone ..
+    git clone https://github.com/dinosled/alli-app.git
 
 ##  Install and run
 Install
@@ -31,7 +31,7 @@ Run on [mobile device](https://docs.expo.dev/workflow/run-on-device/), [Android 
 
 
 # Contribute
-TBD
+Please reach out to us at team@alli-app.com
 
 
 
