@@ -1,6 +1,6 @@
 import AsyncStorage from "@react-native-async-storage/async-storage"
 import { atomWithStorage, createJSONStorage, loadable } from "jotai/utils"
-import { atom, useAtom } from "jotai"
+import { atom } from "jotai"
 import * as SecureStore from "expo-secure-store"
 import CryptoJS from "crypto-js"
 
