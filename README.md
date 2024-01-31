@@ -8,27 +8,40 @@ We are currently in the development stage. If you want to join our mission to ma
 
 
 # Setup
+## Prerequisites
+* [Node and npm installed](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+* [Expo installed](https://www.npmjs.com/package/expo)
+* Android and iOS simulators, or android and iOS mobile devices with Expo Go App 
 
 ## Clone the repository
-Clone with SSH
+Clone with SSH:
 
     git clone git@github.com:dinosled/alli-app.git
 
-Clone with HTTPS
+Clone with HTTPS:
 
     git clone https://github.com/dinosled/alli-app.git
 
 ##  Install and run
-Install
+Install:
 
     npm install
     
-Start the project
+Start the project:
 
     npm start
 
-Run on [mobile device](https://docs.expo.dev/workflow/run-on-device/), [Android Studio Emualtor](https://docs.expo.dev/workflow/android-studio-emulator/) or [iOS Simulator](https://docs.expo.dev/workflow/ios-simulator/).
+Follow the instructions in the terminal to run on [mobile device](https://docs.expo.dev/workflow/run-on-device/), [Android Studio Emualtor](https://docs.expo.dev/workflow/android-studio-emulator/) or [iOS Simulator](https://docs.expo.dev/workflow/ios-simulator/).
 
+## Connect to CMS
+Please contact a member of the team and request id and access token to connect to our content management system.
+
+Create .env file in project root directory
+
+
+    REACT_APP_ACCESS_TOKEN=<ACCESS_TOKEN>>
+    REACT_APP_SPACE=<SPACE_ID>>
+    
 
 # Contribute
 Please reach out to us at team@alli-app.com
