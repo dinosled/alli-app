@@ -1,11 +1,12 @@
 # About
+
 ## Alli-App, made to support people during the process of abortion with pills
+
 Alli-App offers daily information and guidance on taking medication, managing potential side effects, and ensuring a safe and comfortable experience during the process of abortion with pills.
 
 We understand the importance of having a low-barrier, diversity-aware, and gender-inclusive platform that serves the needs of our diverse target audience. Our goal is to provide a comprehensive and inclusive app that supports individuals through every step of the process.
 
-We are currently in the development stage. If you want to join our mission to make abortion with pills a more accessible and empowering experience reach out to us at team@alli-app.com.  For more information check out our [website](https://alli-app.com/).
-
+We are currently in the development stage. If you want to join our mission to make abortion with pills a more accessible and empowering experience reach out to us at team@alli-app.com. For more information check out our [website](https://alli-app.com/).
 
 # Setup
 ## Prerequisites
@@ -44,8 +45,5 @@ Create .env file in project root directory
     
 
 # Contribute
+
 Please reach out to us at team@alli-app.com
-
-
-
-
